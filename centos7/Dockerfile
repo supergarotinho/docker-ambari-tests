@@ -7,7 +7,7 @@ RUN git clone https://github.com/apache/ambari /root/ambari
 # Installing pip and dependencies
 RUN curl "https://bootstrap.pypa.io/get-pip.py" -o "/root/get-pip.py"
 RUN python /root/get-pip.py
-RUN pip install coverage Jinja2 mock
+RUN pip install coverage Jinja2 mock coveralls
 
 # Exporting the needed paths (/lib/python2.7/site-packages:)
 ENV AMBARIPYTHON=/root/ambari/ambari-common/src/main/python
