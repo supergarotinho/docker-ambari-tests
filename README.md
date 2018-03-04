@@ -4,7 +4,7 @@
 Docker images for ambari integrated testing purposes in several OS instances
 
 
-[![Build Status](https://dockerbuildbadges.quelltext.eu/status.svg?organization=supergarotinho&repository=ambari-tests)](https://hub.docker.com/r/supergarotinho/ambari-tests/)
+[![Build Status](https://img.shields.io/docker/build/supergarotinho/ambari-tests.svg)](https://hub.docker.com/r/supergarotinho/ambari-tests/)
 [![Docker Stars](https://img.shields.io/docker/stars/supergarotinho/ambari-tests.svg)](https://hub.docker.com/r/supergarotinho/ambari-tests/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/supergarotinho/ambari-tests.svg)](https://hub.docker.com/r/supergarotinho/ambari-tests/)
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/supergarotinho/docker-bashtest/blob/master/LICENSE)
